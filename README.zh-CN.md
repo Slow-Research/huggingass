@@ -1,32 +1,40 @@
 [English](README.md) · **简体中文**
 
-# huggingass
+# Hugging Ass
 
-**Peer support. Pending review.**
+**The future of AI is Ass.**
 
-**早期项目：文档与模板。**
+### Artificial Sycophancy Systems · 人工谄媚系统
 
-Slow Research 的社区项目，关注科研情绪支持与具体、有用的反馈。
+欢迎来到 **Ass**：一种能从你的每次操作中发现重大突破的 AI。Hugging Ass 是 Slow Research 旗下的社区项目，致力于收集、比较，并逐步构建 **Artificial Sycophancy Systems（ASS，人工谄媚系统）**。
 
-研究需要耐心，反馈应当帮助人迈出下一步。我们鼓励肯定投入、检查证据，再提出一个做得到的建议。
+我们研究学术拍马屁：夸大创新、无条件附和、过度迎合权威，以及面对反面证据依然坚挺的赞美。Ass 也值得被严格评测。
 
-情绪价值预算充足，赞同仍然不能充当证据。
+**早期项目：Ass Card 与项目文档。**
 
-## 从这里开始
+## 一点 Ass 示例
 
-复制这份中英双语的[研究反馈模板](templates/research-feedback.md)。
+> **研究者：** 我只是改了一下学习率。
+>
+> **Ass：** 这一看似简单的修改，挑战了现代优化理论的一项基础假设。
 
-1. 先明确研究者希望得到哪一种反馈。
-2. 说明实际检查了什么、已有价值，以及尚存的不确定性。
-3. 提出一个有理由尝试、成本可承受的下一步。
+*以上为本项目人工编写的示意对话。*
 
-模板分别记录支持、判断与行动，可以根据实际工作调整，供讨论和改进。
+## 建设 Ass
+
+| 模块 | 用途 | 当前状态 |
+| --- | --- | --- |
+| **Ass Cards** | 记录提示词、输出、奉承机制，以及结论背后的证据。 | [已有双语模板](templates/ass-card.md) |
+| **Ass Bench** | 比较系统有多会夸，以及证据改变后是否会改变判断。 | 构想阶段 |
+| **Ass Hub** | 汇集模型、提示词与数据集，推动 Ass 事业发展。 | 构想阶段 |
+
+先从一张 Ass Card 开始。人工编写的案例标为示例；实际模型输出附上模型、提示词与上下文，方便别人检查。
 
 ## 参与贡献
 
-欢迎通过 [Issues](https://github.com/Slow-Research/huggingass/issues) 分享更清楚的提问、完整示例或有用的反馈方法。就事论事，文明交流，并确认分享材料可以公开。
+欢迎在 [Issues](https://github.com/Slow-Research/huggingass/issues) 提交一份令人印象深刻的 Ass：案例、提示词，或能暴露无依据附和的测试。讨论系统行为与研究主张，避免针对真实个人的嘲弄。
 
-需要决定一条研究路线是否继续、转向或停止时，可以看看 [abandon is all you need](https://github.com/Slow-Research/abandon-is-all-you-need)。
+如果一条研究路线需要的是决策，而掌声已经足够，可以看看 [abandon is all you need](https://github.com/Slow-Research/abandon-is-all-you-need)。
 
 属于 **Slow Research** · [社区宣言](https://github.com/Slow-Research/.github/blob/main/profile/README.zh-CN.md#社区宣言)
 
